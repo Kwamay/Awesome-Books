@@ -76,7 +76,7 @@
 
 <!-- LIVE DEMO -->
 
-- [Live Demo Link]( https://yayaismaail.github.io/awesome-books/)
+- [Live Demo Link](https://kwamay.github.io/Awesome-Books/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
